@@ -65,4 +65,4 @@ Sufian-devs
 
 Artificial Intelligence Student
 
-GitHub Portfolio Project
+Programming Fundamentals Project
